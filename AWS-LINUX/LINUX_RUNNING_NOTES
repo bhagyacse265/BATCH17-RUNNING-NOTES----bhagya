@@ -1,0 +1,292 @@
+AWS LINUX
+
+============================
+ON-PREMISES : What is On-Premises?
+============================
+
+On-premises means:
+You own and manage everything yourself (your own datacenter) 
+
+This includes:
+- Servers (big computers)
+- Storage
+- Networking equipment
+- Power
+- Cooling
+- Security
+- IT staff to maintain it
+
+
+============================
+CLOUD : What is Cloud?
+============================
+
+Cloud means:
+Using someone else’s computers (servers) over the internet
+instead of owning and managing your own.
+
+
+============================
+EXAMPLE: Running a Website
+============================
+
+ON-PREMISES:
+
+- Buy a server
+- Install OS and software
+- Set up networking
+- Handle power & cooling
+- Fix hardware issues
+- Upgrade when traffic grows
+- Limited storage - External hard drive or  server
+- Limited space
+- If it breaks → data loss risk
+
+Result:
+- Takes time
+- High cost
+- Requires expertise
+
+
+CLOUD:
+
+- Create an account
+- Click "Create Server"
+- Choose server size
+- Pay per hour or usage
+- Scale up or down anytime AS PER REQUIREMENT 
+
+Result:
+- Fast
+- Flexible
+- Beginner-friendly
+
+
+============================
+KEY BENEFITS OF CLOUD
+(Why Cloud is Popular)
+============================
+
+- No hardware to buy
+- Pay only for what you use (Ondemand )
+- Easy to scale resources
+- High availability
+- High Scalability
+- Faster to start
+- Global access from anywhere
+
+
+============================
+WHEN ON-PREMISES IS STILL USED
+============================
+
+Some companies prefer on-premises when:
+
+- Strict data security laws exist
+- Internet is not reliable
+- Legacy systems are in use
+- Full control over systems is required
+
+=========================================================================
+LINUX BASICS FOR CLOUD
+
+=====================================
+1) WHY LINUX? WHY NOT WINDOWS?
+=====================================
+
+Simple Answer:
+Cloud runs mostly on Linux, not Windows.
+
+
+Why Linux?
+
+- Free (open source) 
+- Stable (Runs for years)
+- Lightweight
+- Secure & Reliable 
+- Highly customizable
+- Perfect for servers
+
+Why not Windows?
+
+- Windows is mainly designed for desktop users
+- Heavier OS
+- Paid license
+- Less suitable for large-scale servers
+
+
+=====================================
+LINUX vs WINDOWS 
+=====================================
+
+Feature           Linux                     Windows
+------------------------------------------------------------
+Cost              Free (Open-source)        Paid license
+Performance       Fast & lightweight        Heavy
+Stability         Runs for years             Needs restarts
+Security          Very secure               More virus-prone
+Automation        Excellent (CLI-based)     Limited
+Server usage      Very high                 Less
+Cloud support     Default choice             Secondary
+
+
+=====================================
+UNIX (ORIGINAL)
+=====================================
+
+- Old operating system
+- Created in the 1970s
+- Expensive
+- Mostly used in big enterprises
+- Examples:
+  - AIX
+  - Solaris
+  - HP-UX
+
+
+=====================================
+LINUX (INSPIRED BY UNIX)
+=====================================
+
+- Open-source
+- Free
+- Created in 1991
+- Community-driven
+- Runs everywhere:
+  - Cloud
+  - Mobile
+  - Servers
+
+
+=====================================
+UNIX vs LINUX 
+=====================================
+
+UNIX                     Linux
+------------------------------------------------
+Proprietary              Open-source
+Paid                     Free
+Limited vendors          Huge community
+Less flexible            Highly customizable
+Legacy systems           Used everywhere today
+
+
+=====================================
+FEW IMPORTANT FACTS
+=====================================
+
+- Android is based on Linux
+- AWS runs mostly on Linux
+- Google runs on Linux
+- Facebook runs on Linux
+- Around 90% of internet servers run Linux
+- Linux is the backbone of Cloud.
+
+
+
+MAJOR LINUX DISTRIBUTION FAMILIES 
+
+
+RHEL 
+UBUNTU
+AMAZON LINUX 
+DEBIAN
+
+
+
+==================================================
+
+LINUX ARCHITECTURE:
+
+
+
+==================================================
+AWS FREE TIER 
+
+
+AWS Free Tier allows new users to try AWS services
+without paying immediately.
+
+It is mainly used for:
+- Learning AWS
+- Practice
+- Small experiments
+- Beginners in Cloud
+
+
+========================================
+AWS FREE TIER – CURRENT USAGE MODEL
+(NEW ACCOUNTS)
+========================================
+
+For new AWS accounts:
+
+- AWS offers a Free Plan with credits
+- You can get up to $200 AWS credits
+  - $100 at signup
+  - Up to $100 by completing learning activities
+
+- Valid for:
+  - 6 months
+  - OR until credits are used (whichever comes first)
+
+- No charges unless you upgrade to Paid Plan
+
+
+========================================
+IS IT FREE FOR 1 YEAR OR 6 MONTHS?
+========================================
+
+- Older AWS accounts (created earlier):
+  - Had 12 months Free Tier for many services
+
+- New AWS accounts:
+  - Mostly follow 6-month Free Plan with credits
+
+Note:
+- AWS model may change over time
+- Always check usage limits in AWS console
+
+
+========================================
+ALWAYS FREE SERVICES
+(NO EXPIRY – WITH LIMITS)
+========================================
+
+Some services are free every month
+within certain limits, even after credits end.
+
+Examples:
+- AWS Lambda
+  - 1 million free requests per month
+- Amazon S3
+  - Limited free storage
+- Amazon DynamoDB
+  - Free storage and read/write capacity
+
+(Usage limits apply)
+
+
+========================================
+IMPORTANT POINTS TO REMEMBER
+========================================
+
+- Credit card is required to create AWS account
+- AWS follows pay-as-you-use model
+- If you exceed free limits → you will be charged
+- Always monitor billing dashboard
+
+
+========================================
+FINAL SUMMARY
+========================================
+
+AWS Free Tier is a starter pack for beginners.
+
+- New users get free credits (valid ~6 months)
+- Some services are always free within limits
+- Best way to learn AWS hands-on
+- Be careful with usage to avoid charges
+
+
+==============
