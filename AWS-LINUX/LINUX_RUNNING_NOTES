@@ -632,8 +632,95 @@ n --> next
 
 
 =====================================
+===========================================================================================================================================================================================================================================================================================================================================================================================================================
+
+DATE: 24 DEC 25
 
 
+wc  /etc/passwd
+
+wc -l /etc/passwd
+
+wc  -w /etc/passwd
+
+wc  -c /etc/passwd
+
+=================================
+
+yum in a package manager for RHEL / CENTOS 
+
+apt or apt-get package manager for ubuntu
+
+yum install git -y 
+yum remove git -y 
+
+  
+which git
+whereis git 
+
+=============================================
+
+diff file1 file2
+sdiff file1 file2
+==============
+
+uptime 
+
+top ( real time live dynamic data ) 
+
+q --> quit 
+
+ctrl + c --> abort / cancel
+
+lscpu 
+
+free 
+free -m 
+free -g 
+
+==================================
+
+wget <link> 
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.113/bin/apache-tomcat-9.0.113.zip
+
+=================================
+
+zip 
+
+unzip apache-tomcat-9.0.106.zip
+
+zip -r name.zip <folder> 
+
+
+====================
+
+tar.gz
+
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.113/bin/apache-tomcat-9.0.113.tar.gz
+
+
+tar -xvf apache-tomcat-9.0.113.tar.gz
+
+tar -cvf name.tar.gz <folder> 
+
+
+===================================
+networking commands :
+
+PING 
+
+ping www.google.com
+---------------------------------
+TELNET 
+
+Telnet is a network protocol and command-line tool used to connect to remote systems or devices over TCP. It lets you manually open a TCP connection to a specific port on a remote host.
+
+   telnet www.google.com 443
+    telnet www.mindcircuit.in 443
+    telnet 100.26.144.255 8080
+   telnet 100.26.144.255 443
+
+------------------------
 
 
 
